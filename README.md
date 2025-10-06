@@ -1,0 +1,1 @@
+The Movie-Recommendation-Insights-System is a Python-based project that analyzes movie data (genres, ratings, runtime, user votes) and predicts whether a movie is likely to be a hit or flop using ML by providing visual and statistical insights that demonstrates skills in data cleaning, EDA, visualization, regression, and preprocessing
